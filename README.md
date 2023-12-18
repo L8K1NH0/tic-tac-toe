@@ -4,7 +4,7 @@ Esse projeto foi criado para estar desenvolvendo meus conhecimentos.
 
 O código mostra toda a lógica que usei para está criando o jogo da velha em Python.
 
-Por enquanro todo o jogo está rodando no terminal, mas pretendo fazer uma pagina web, com o framework Flask, para ficar um jogo mais interativo
+A ideia inical era criar uma pagina web (com flask) para rodar o jogo, mas decidi usar Tkinter que pode ser usada para construir aplicativos básicos de interface gráfica do usuário (GUI).
 
 ## Getting Started
 
